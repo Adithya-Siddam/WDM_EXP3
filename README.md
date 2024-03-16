@@ -36,10 +36,14 @@ for each wear category.</p>
 <p align="justify">
 8. Visulaize the sequence patterns using matplotlib.
 </p>
+
 ### Program:
+
 ```
+
 Name : S Adithya Chowdary.
 Reg. No: 212221230100.
+
 ```
 
 ```python
